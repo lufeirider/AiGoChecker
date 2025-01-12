@@ -13,11 +13,16 @@
 
 
 
-# 命令行
+# 演示
 
 ```
 GoChecker -path code_project -key sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
+
+
+https://github.com/user-attachments/assets/51339ef0-f42a-4f61-b7ff-c9a4d588b515
+
+
 
 
 <img width="1589" alt="image" src="https://github.com/user-attachments/assets/dee1ea0d-eddb-4ab1-a8ad-d819cb9b98fa" />
